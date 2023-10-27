@@ -14,7 +14,24 @@
 <a href="https://twitter.com/archan_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="archan-pandya" height="30" width="40" /></a>
 </p>
 
+## Github Stats 🏆
+<div align="center" >
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Archan17&theme=nord_dark" width="49%">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Archan17&theme=nord_dark&utcOffset=5.30" width="49%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archan17&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="99%">
+    
+</a>
+    
+<details>
+
+<summary> <strong> Show more Stats </strong> </summary>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Archan17&theme=nord_dark" width="100%">
+
+</details>
+</div>
 
 ## Tech Stack ⚔️
 
