@@ -36,4 +36,4 @@ Here's a quick look at some of the technologies I work with:
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=archan-pandya.archan-pandya)](https://github.com/archan-pandya)
 
-Thanks for visiting!
+<b>Thanks for visiting!
