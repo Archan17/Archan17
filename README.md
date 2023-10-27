@@ -1,8 +1,4 @@
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&multiline=true&width=1000&lines=Hello+I+am+Archan+Pandya+,+a+passionate+Full+Stack+Developer)](https://git.io/typing-svg)
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=1000&lines=Hello+👋+I+am+Archan+Pandya+,+a+passionate+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## About Me 😄
 
