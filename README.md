@@ -16,9 +16,8 @@ Let's connect and collaborate! Whether you're interested in discussing exciting 
 
 
 
-## Tech Stack
+## Tech Stack ⚔️
 
-Here's a quick look at some of the technologies I work with:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
@@ -29,8 +28,18 @@ Here's a quick look at some of the technologies I work with:
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 
+
+## Leetcode Stats 🏆
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/archan_17?theme=nord&font=Ubuntu%20Mono&ext=heatmap" width="70%">
+
+</div>
+
+
+
 ## Profile Visitors 👀
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=archan-pandya.archan-pandya)](https://github.com/archan-pandya)
+[![](https://visitor-badge.laobi.icu/badge?page_id=archan-pandya.archan-pandya)](https://github.com/archan-pandya)  
 
 <b>Thanks for visiting!
