@@ -23,7 +23,7 @@
     
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Archan17&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Archan17&theme=dark&background=292e39)](https://git.io/streak-stats)
 
 </div>
 
