@@ -15,22 +15,16 @@
 </p>
 
 ## Github Stats 🏆
-<div align="center" >
+<div class="" >
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Archan17&theme=nord_dark" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Archan17&theme=nord_dark" width="40%">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Archan17&theme=nord_dark&utcOffset=5.30" width="49%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archan17&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="99%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Archan17&theme=nord_dark&utcOffset=5.30" width="40%">
     
 </a>
-    
-<details>
 
-<summary> <strong> Show more Stats </strong> </summary>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Archan17&theme=nord_dark" width="100%">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Archan17&theme=dark&background=000000)](https://git.io/streak-stats)
 
-</details>
 </div>
 
 ## Tech Stack ⚔️
