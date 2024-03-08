@@ -1,3 +1,5 @@
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=1000&lines=Hello+👋+I+am+Archan+Pandya+,+a+passionate+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## About Me 😄
@@ -18,6 +20,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Archan17&theme=nord_dark" width="40%">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Archan17&theme=nord_dark&utcOffset=5.30" width="40%">
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archan17&theme=dark&hide=php,jupyter%20notebook,html,css,c++,glsl,shell,css&layout=compact&langs_count=10" />
+</a>
     
 </a>
 
